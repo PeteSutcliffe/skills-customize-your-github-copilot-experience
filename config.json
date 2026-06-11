@@ -65,6 +65,20 @@
       "description": "Data analysis and statistical calculations using pandas and numpy",
       "path": "assignments/statistics-with-python",
       "dueDate": "2026-06-18"
+    },
+    {
+      "id": "algorithmic-sprint-binary-search",
+      "title": "Algorithmic Sprint — Binary Search & Two‑Pointer Optimization",
+      "description": "Implement binary search and two-pointer techniques to solve array problems and compare complexity.",
+      "path": "assignments/algorithmic-sprint-binary-search",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
